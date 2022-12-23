@@ -49,13 +49,15 @@
 마케팅
 nearlly non existing at this point. to be added later
   <div align="center">
+    
 ---
 |날짜|로그|자료|
 |---|---------|----|
 |2022-10-18|blank|blank|
 |2022-10-18|blank|blank|
 |2022-10-18|blank|blank|
-  ---
+---
+    
  2D TOP DOWN PLAYER 환경 구축
 </div>
 
