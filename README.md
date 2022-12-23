@@ -14,6 +14,7 @@
   ---
  2D TOP DOWN PLAYER 환경 구축
 </div>
+
 - [ ] Plyaer Controller 구축
 - [ ] Enemy type A 1) hp system
 - [ ] Enemy type A 2) persuit player
@@ -25,7 +26,6 @@
 - [ ] Conversation System
 - [ ] interactive item (box)
 - [ ] Map transportation portal
-
 ---
 <p align = "left">
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
