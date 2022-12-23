@@ -7,6 +7,10 @@
 
   <div align="left">
 
+세상이 물에 빠져버렸다. 주인공은 살아남기 위해 자원의 보고인 바다로 뛰어들어야 한다! 교활한 바닷속 생물들을 취하고 바다의 비밀을 풀어보자!
+망망대해에서 살아남은 생존자들과 힘을 합쳐 새로운 세상을 헤쳐나가보자~
+    
+플랫폼 : PC  
 타겟 : 전연령대
 장르 : 샌드박스 + 로그라이크 + rpg
 구현기술 : 2D
@@ -55,9 +59,12 @@ nearlly non existing at this point. to be added later
 ---
 |날짜|로그|자료|
 |---|---------|----|
-|2022-10-18|blank|blank|
-|2022-10-18|blank|blank|
-|2022-10-18|blank|blank|
+|2022-12-10|플레이어|blank|
+|2022-12-30|몬스터|blank|
+|2022-01-15|인벤토리 및 ui|blank|
+|2022-01-25|NPC 및 대화 시스템, 퀘스트 시스템|blank|
+    
+
 ---
     
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=진척도&fontColor=000000&fontSize=20)
