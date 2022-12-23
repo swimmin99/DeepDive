@@ -5,6 +5,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=00ffff&text=DeepDive&fontColor=ffffff)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=UNITY&fontColor=000000&fontSize=20)
 
+  <div align="left">
+
 타겟 : 전연령대
 장르 : 샌드박스 + 로그라이크 + rpg
 구현기술 : 2D
@@ -36,13 +38,17 @@
 레벨 디자인
 각 스테이지에서 레벨을 조정하는 방법
 수심이 달라질수록 난이도가 올라간다
+  1)레벨 콘셉트 디자인 (전체적인 주제) 동해 앞바다 느낌
+  2) 구조, 공간 디자인 - 사냥터 필드(해양 환경)
+  3) 환경 배경 디자인 - 화려한 수중 환경 산호초
+  4)레벨 스크립트 디자인 - 몬스터는 특정 구역에서 리젠, 조개형 몬스터는 함정형 몬스터 등
 
 기술적 요구사항
 몬스터 npc 등의 ai와 아이템 인터렉션 기술
 
 마케팅
 nearlly non existing at this point. to be added later
-
+  <div align="center">
 ---
 |날짜|로그|자료|
 |---|---------|----|
