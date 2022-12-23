@@ -3,7 +3,7 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=00ffff&text=DeepDive&fontColor=ffffff)
-![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=UNITY&fontColor=000000&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=기획서&fontColor=000000&fontSize=20)
 
   <div align="left">
 
@@ -49,7 +49,9 @@
 마케팅
 nearlly non existing at this point. to be added later
   <div align="center">
-    
+
+![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=플랜&fontColor=000000&fontSize=20)
+
 ---
 |날짜|로그|자료|
 |---|---------|----|
@@ -58,7 +60,9 @@ nearlly non existing at this point. to be added later
 |2022-10-18|blank|blank|
 ---
     
- 2D TOP DOWN PLAYER 환경 구축
+![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=&fontColor=000000&fontSize=20)
+  
+ 
 </div>
 
 - [x] Plyaer Controller 구축 2022-12-01
