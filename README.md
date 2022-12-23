@@ -60,8 +60,7 @@ nearlly non existing at this point. to be added later
 |2022-10-18|blank|blank|
 ---
     
-![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=&fontColor=000000&fontSize=20)
-  
+![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=진척도&fontColor=000000&fontSize=20)
  
 </div>
 
