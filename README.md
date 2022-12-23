@@ -12,8 +12,8 @@
 |2022-10-18|blank|blank|
 |2022-10-18|blank|blank|
   ---
+ 2D TOP DOWN PLAYER 환경 구축
 </div>
-2D TOP DOWN PLAYER 환경 구축
 - [ ] Plyaer Controller 구축
 - [ ] Enemy type A 1) hp system
 - [ ] Enemy type A 2) persuit player
