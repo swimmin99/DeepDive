@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=100&section=header&text=Deep%20Dive&fontSize=30&fontAlign=20&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=89a5ea&text=Deep20Dive&fontColor=ffffff)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=UNITY&fontColor=000000&fontSize=20)
 
   ---
@@ -13,14 +13,19 @@
 |2022-10-18|blank|blank|
   ---
 </div>
+2D TOP DOWN PLAYER 환경 구축
+- [ ] Plyaer Controller 구축
+- [ ] Enemy type A 1) hp system
+- [ ] Enemy type A 2) persuit player
+- [ ] Enemy type A 3) random patrolling
+- [ ] Enemy type A 4) player encounter interaction
+- [ ] Enemy type A 4) item drop 
+- [ ] Enemy type B 1) long distance attack
+- [ ] Inventory System
+- [ ] Conversation System
+- [ ] interactive item (box)
+- [ ] Map transportation portal
 
-- [ ] 2D TOP DOWN PLAYER 환경 구축
-- [ ] 인벤토리 시스템 구축
-- [ ] 대화 시스템 구축
-- [ ] 배틀 인카운터 시스템 구축
-- [ ] npc controller 구축
-- [ ] quest 시스템 구축
-- [ ] 메뉴 및 세이브 구축
 ---
 <p align = "left">
 <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp
