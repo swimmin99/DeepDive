@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=89a5ea&text=Deep%Dive&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=89a5ea&text=Deep&Dive&fontColor=ffffff)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=UNITY&fontColor=000000&fontSize=20)
 
   ---
