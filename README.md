@@ -5,7 +5,45 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=00ffff&text=DeepDive&fontColor=ffffff)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=UNITY&fontColor=000000&fontSize=20)
 
-  ---
+타겟 : 전연령대
+장르 : 샌드박스 + 로그라이크 + rpg
+구현기술 : 2D
+전반적인 분위기 : 귀엽고 힐링
+
+인터페이스 :
+입력장치 키보드 마우스
+게임화면의 메뉴형식
+
+게임시작 : 플레이어가 시작과함께 할 수 있는 일
+주변환경과 인터랙팅, 사냥, 낚시, 크래프팅
+
+목적 : 자신의 배를 보완시켜서 주변과 커넥팅
+
+등장요소 : 플레이어 캐릭터, 몬스터(어류), npc(타 배의 선장), 상인
+
+게임요소/아이템 : 각종 크래프팅 가능한 아이템, 창(스피어), 낚시대
+
+맵/건물/맵오브젝트
+바다, 배(여러종류), 타 npc, 몬스터(어류)
+
+규칙
+게임플레이 방법과 관련된 규칙
+
+게임플레이
+제시된 규칙에 따라 플레이어가 취할 수 있느 행동
+상호작용
+
+레벨 디자인
+각 스테이지에서 레벨을 조정하는 방법
+수심이 달라질수록 난이도가 올라간다
+
+기술적 요구사항
+몬스터 npc 등의 ai와 아이템 인터렉션 기술
+
+마케팅
+nearlly non existing at this point. to be added later
+
+---
 |날짜|로그|자료|
 |---|---------|----|
 |2022-10-18|blank|blank|
