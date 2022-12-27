@@ -5,7 +5,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=00ffff&text=DeepDive&fontColor=ffffff)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=기획서&fontColor=000000&fontSize=20)
   
-🦦🐟🐠🐡🦈🍤🍥🦐🎏🎣
+🦦  🐟  🐠  🐡  🦈  🍤  🍥  🦐  🎏  🎣
 </div>
   <div align="left">
 
@@ -106,3 +106,6 @@ nearlly non existing at this point. to be added later
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Visual-Studio-5C2D91?style=flat-square&logo=Visual-Studio&logoColor=white"/></a>&nbsp<br>
 </p>
+</div>
+  <div align="center">
+🦦  🐟  🐠  🐡  🦈  🍤  🍥  🦐  🎏  🎣
