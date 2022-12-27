@@ -60,7 +60,7 @@ nearlly non existing at this point. to be added later
 |날짜|로그|자료|
 |---|---------|----|
 |2022-12-10|플레이어|blank|
-|2022-12-30|몬스터|https://user-images.githubusercontent.com/109887066/209662009-50948254-c251-48eb-a3e5-f4f0337b4e38.gif|
+|2022-12-30|몬스터|<img src=https://user-images.githubusercontent.com/109887066/209662009-50948254-c251-48eb-a3e5-f4f0337b4e38.gif>|
 |2023-01-15|인벤토리 및 ui|blank|
 |2023-01-25|NPC 및 대화 시스템, 퀘스트 시스템|blank|
     
