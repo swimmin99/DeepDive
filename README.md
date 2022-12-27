@@ -75,7 +75,10 @@ nearlly non existing at this point. to be added later
 - [x] Enemy type A 1) hp system 2022-12-02☑
 - [x] Enemy type A 2) persuit player 2022-12-20☑
 - [x] Enemy type A 3) random patrolling 2022-12-23☑
-- [ ] Enemy type A 4) player encounter interaction
+- [x] Enemy type A 4) player encounter interaction 2022-12-27
+- [x] Enemy type A 5) knockback system 2022-12-27☑
+- [ ] Damage UI, invincibility timer 
+
 - [ ] Enemy type A 4) item drop 
 - [ ] Enemy type B 1) long distance attack
 - [ ] Inventory System
