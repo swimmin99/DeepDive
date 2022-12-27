@@ -4,10 +4,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=00ffff&text=DeepDive&fontColor=ffffff)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=기획서&fontColor=000000&fontSize=20)
-<img src=(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0ab4b036812305.572a1cada9fdc.gif)>
+🦦🐟🐠🐡🦈🍤🍥🦐🎏🎣
 </div>
   <div align="left">
-    
+
 ```
 세상이 물에 빠져버렸다. 주인공은 살아남기 위해 자원의 보고인 바다로 뛰어들어야 한다! 교활한 바닷속 생물들을 취하고 바다의 비밀을 풀어보자!
 망망대해에서 살아남은 생존자들과 힘을 합쳐 새로운 세상을 헤쳐나가보자~
