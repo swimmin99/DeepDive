@@ -57,12 +57,12 @@ nearlly non existing at this point. to be added later
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=플랜&fontColor=000000&fontSize=20)
 
 ---
-|날짜|로그|자료|
-|---|---------|----|
-|2022-12-10|플레이어 조작|<img src=https://user-images.githubusercontent.com/109887066/209662338-d395abd8-62c6-44b9-8aa0-bf713b731f40.gif>|
-|2022-12-23|몬스터 추적|<img src=https://user-images.githubusercontent.com/109887066/209662509-13a3a3c4-adf2-46e7-9680-5bdf5682cdc4.gif>|
-|2022-12-27|몬스터 넉백|<img src=https://user-images.githubusercontent.com/109887066/209662260-e484bcbb-7211-4dd5-946e-af47dc621240.gif>|
-|2022-12-27|플레이어 넉백|<img src=https://user-images.githubusercontent.com/109887066/209662009-50948254-c251-48eb-a3e5-f4f0337b4e38.gif>|
+|날짜|로그|자료|참고|
+|---|---------|----|----|
+|2022-12-10|플레이어 조작|<img src=https://user-images.githubusercontent.com/109887066/209662338-d395abd8-62c6-44b9-8aa0-bf713b731f40.gif>|----|
+|2022-12-23|몬스터 추적|<img src=https://user-images.githubusercontent.com/109887066/209662509-13a3a3c4-adf2-46e7-9680-5bdf5682cdc4.gif>|----|
+|2022-12-27|몬스터 넉백|<img src=https://user-images.githubusercontent.com/109887066/209662260-e484bcbb-7211-4dd5-946e-af47dc621240.gif>|----|
+|2022-12-27|플레이어 넉백|<img src=https://user-images.githubusercontent.com/109887066/209662009-50948254-c251-48eb-a3e5-f4f0337b4e38.gif>|[참고영상]https://youtu.be/8rTK68omQow|
 |2023-01-15|인벤토리 및 ui|blank|
 |2023-01-25|NPC 및 대화 시스템, 퀘스트 시스템|blank|
     
