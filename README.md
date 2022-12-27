@@ -59,10 +59,11 @@
 nearlly non existing at this point. to be added later
 ```
 
-    </div>
+
+</div>
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=&fontColor=000000&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=개발로그&fontColor=000000&fontSize=20)
 
 ---
 |날짜|로그|자료|참고|
