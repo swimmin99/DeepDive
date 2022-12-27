@@ -4,7 +4,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=00ffff&text=DeepDive&fontColor=ffffff)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=기획서&fontColor=000000&fontSize=20)
-<img src=https://user-images.githubusercontent.com/109887066/209663461-44fd8c3b-e485-48b9-94e8-515c97018a08.gif>
+<img src=(https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/0ab4b036812305.572a1cada9fdc.gif)>
 </div>
   <div align="left">
     
