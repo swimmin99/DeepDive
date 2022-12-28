@@ -96,7 +96,7 @@
 - [x] Enemy type A 3) random patrolling 2022-12-23☑
 - [x] Enemy type A 4) player encounter interaction 2022-12-27
 - [x] Enemy type A 5) knockback system 2022-12-27☑
-- [ ] Damage UI, invincibility timer 
+- [x] Damage UI, invincibility timer 2022-12-28☑
 
 - [ ] Enemy type A 4) item drop 
 - [ ] Enemy type B 1) long distance attack
