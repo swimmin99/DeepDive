@@ -2,10 +2,10 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=00ffff&text=DeepDive&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=00ffff&text=🐠Deep⛵Dive🐟&fontColor=ffffff)
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=기획서&fontColor=000000&fontSize=20)
   
-🦦  🐟  🐠  🐡  🦈  🍤  🍥  🦐  🎏  🎣
+🦦  🐟  🐠  🐡  🦈 ⛵ 🍤  🍥  🦐  🎏  🎣
 </div>
   <div align="left">
 
@@ -84,8 +84,7 @@
 |2023-01-25|NPC 및 대화 시스템, 퀘스트 시스템|blank|
     
 
-[^1]: 임시 스프라이트 출처 GAME ENDEAVOR : https://game-endeavor.itch.io/mystic-woods
----
+
     
 ![header](https://capsule-render.vercel.app/api?type=rect&height=50&color=ebf3f5&text=진척도&fontColor=000000&fontSize=20)
  
@@ -115,4 +114,8 @@
 </p>
 </div>
   <div align="center">
-🦦  🐟  🐠  🐡  🦈  🍤  🍥  🦐  🎏  🎣
+🦦  🐟  🐠  🐡  🦈 ⛵ 🍤  🍥  🦐  🎏  🎣
+
+[^1]: 임시 스프라이트 출처 GAME ENDEAVOR : https://game-endeavor.itch.io/mystic-woods
+[^2]: 임시 폰트 출처 GAME ENDEAVOR :Neo둥근모 Pro Copyright © 2017-2022, Eunbin Jeong (Dalgona.) <project-neodgm@dalgona.dev> with reserved font name "Neo둥근모 Pro" and "NeoDunggeunmo Pro".
+---
