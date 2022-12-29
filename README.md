@@ -79,7 +79,7 @@
 |2022-12-23|몬스터 추적|<img src=https://user-images.githubusercontent.com/109887066/209662509-13a3a3c4-adf2-46e7-9680-5bdf5682cdc4.gif>|[참고영상1](https://www.youtube.com/watch?v=8eWbSN2T8TE), [참고영상2](https://www.youtube.com/watch?v=MowE3moQ_Cw&t=577s)|
 |2022-12-27|몬스터 넉백|<img src=https://user-images.githubusercontent.com/109887066/209666044-97a0eadd-db41-46de-a1d5-167b82fae0ff.gif>|[참고영상](https://youtu.be/8rTK68omQow)|
 |2022-12-27|플레이어 넉백|<img src=https://user-images.githubusercontent.com/109887066/209662009-50948254-c251-48eb-a3e5-f4f0337b4e38.gif>|[참고영상](https://youtu.be/8rTK68omQow)|
-
+|2022-12-28|데미지 표시 시스템|<img src=https://user-images.githubusercontent.com/109887066/209899900-648e5a37-54c8-4cfb-a0cf-17ed3241f329.gif>||
 |2023-01-15|인벤토리 및 ui|blank|
 |2023-01-25|NPC 및 대화 시스템, 퀘스트 시스템|blank|
     
