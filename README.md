@@ -11,6 +11,20 @@
 입력장치 키보드 마우스
 ```
 
+
+```
+  📌  최종 목표 : 탑 다운 방식의 2D Pixel Art RPG 게임의 틀을 만들어보자.
+  ☑️  유형 : 개인 프로젝트
+  ☑️  사용 기술 : C#, Unity
+  💡  기대 : C#과 친숙해지기. 각종 컴포넌트와 애니메이션 트리 사용법 익히기.
+  💔  예상 장애 요소 : 새로운 언어, 새로운 툴, 새로운 기능들
+ 
+  Objective : Create Top down 2D pixel art based RPG template.
+  Private Project, using C# and Unity
+  Obstacles are : new programming language, new tool, new features.
+```
+
+
 </div>
 <div align="center">
 
